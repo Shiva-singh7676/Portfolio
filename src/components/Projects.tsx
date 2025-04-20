@@ -6,7 +6,7 @@ const projects = [
   {
     title: 'Weather Forecasting',
     description: 'Built a responsive web app using OpenWeatherMap API to display real-time weather data including temperature, humidity, and a forecast.',
-    image: '/Screenshot 2025-04-21 at 12.05.46 AM.png',
+    image: '/pj1.jpg',
     tags: ['HTML','CSS', 'Node.js'],
     github: 'https://github.com/Shiva-singh7676/WeatherNow',
     demo: 'https://r0y15.github.io/WeatherNow/'
@@ -14,7 +14,7 @@ const projects = [
   {
     title: 'Travel Management',
     description: 'Developed a web application to manage bookings, destinations, and user itineraries.',
-    image: '/Screenshot 2025-04-21 at 12.06.06 AM.png',
+    image: '/pj2.jpg',
     tags: ['HTML','CSS', 'Node.js','MYSQL','PHP'],
     github: 'https://github.com/Shiva-singh7676/DRIWAKE',
     demo: 'https://shiva-singh7676.github.io/DRIWAKE/'
